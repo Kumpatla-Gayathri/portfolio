@@ -36,7 +36,7 @@ CNN model for seismic image segmentation achieving **0.7852 IoU score**. Deploye
 |---|---|
 | Languages | Python, Java, JavaScript, SQL, C |
 | AI/ML | TensorFlow, Keras, Scikit-learn, CNNs, NLP, U-Net |
-| Frontend | React, HTML, CSS, Angular |
+| Frontend | React, HTML, CSS |
 | Backend | Node.js, Express.js, REST APIs, JWT |
 | Databases | MongoDB, MySQL |
 | Tools | Git, GitHub, Vercel, Render, Cloudinary, Tableau |
